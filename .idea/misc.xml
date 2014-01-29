@@ -3,12 +3,7 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-<<<<<<< Updated upstream
   <component name="IdProvider" IDEtalkID="053A7D694062A3A8B81B0062AAD28BFF" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
-=======
-  <component name="IdProvider" IDEtalkID="2CDB4319CC0B655823CBEA42672399FD" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
->>>>>>> Stashed changes
 </project>
 
