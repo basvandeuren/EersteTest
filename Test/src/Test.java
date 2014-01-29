@@ -10,8 +10,4 @@ public class Test {
     public Test(){
         ja = false;
     }
-
-    public void Dimi() {
-        ja = true;
-    }
 }
