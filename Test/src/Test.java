@@ -3,6 +3,6 @@
  */
 public class Test {
     public void helloworld(){
-        
+        boolean ja = true;
     }
 }
